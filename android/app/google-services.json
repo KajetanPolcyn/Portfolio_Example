@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056068711079",
+    "project_id": "kajetan-polcyn",
+    "storage_bucket": "kajetan-polcyn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056068711079:android:8951137be186c547e82182",
+        "android_client_info": {
+          "package_name": "com.example.portfolio_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcZLAPVNQ9sh6pSYsvVhyxFMR1cdpaeMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056068711079:android:3781daaf2666dfe2e82182",
+        "android_client_info": {
+          "package_name": "com.kajetan.portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcZLAPVNQ9sh6pSYsvVhyxFMR1cdpaeMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -36,6 +36,11 @@ dependencies:
   cupertino_icons: ^1.0.6
   google_fonts:
   font_awesome_flutter: ^10.7.0
+  flutter_svg: ^2.0.10+1
+  url_launcher: ^6.3.0
+  url_strategy: ^0.3.0
+  cloud_firestore: ^5.4.3
+  logger: ^2.4.0
 
 dev_dependencies:
   flutter_test:
